@@ -21,4 +21,4 @@ install.packages("devtools")
 
 ## Usage
 
-The package provides a single function, `metcolor` that applies reaction or metabolite data (as data frames) to an SVG file produced by MetDraw. For details, see `?metcolor`.
+The package provides a single function, `metcolor`, that applies reaction or metabolite data (as data frames) to an SVG file produced by MetDraw. For details, see `?metcolor`.
